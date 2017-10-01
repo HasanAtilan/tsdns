@@ -1,4 +1,11 @@
-﻿<!DOCTYPE html>
+<!--
+#######################################################
+# Sistemi Oluşturan: Hasan Atılan                     #
+# https://tsbakkali.net  / https://ts3.web.tr         #
+#######################################################
+-->
+
+<!DOCTYPE html>
 <html lang="en">
 <head><script type="text/javascript" src="tasari/analytics.js?v=1504952612.0" charset="utf-8"></script>
 
